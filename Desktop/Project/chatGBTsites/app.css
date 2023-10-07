@@ -1,0 +1,201 @@
+/* Reset some default styles and set a basic font */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Main content styles */
+main {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Job Search Form styles */
+#job-search h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+#job-search form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#job-search input[type="text"],
+#job-search select {
+    width: 100%;
+    padding: 10px;
+}
+
+#job-search button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#job-search button:hover {
+    background-color: #0056b3;
+}
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* Reset some default styles for consistency */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a background color to the body for better readability */
+  body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Center the job listings on the page */
+  #job-listings {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Style for individual job listings */
+  .job-listing {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  .job-listing:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Style for job listing titles */
+  .job-listing h3 {
+    font-size: 1.2rem;
+    margin: 10px;
+    color: #333;
+  }
+  
+  /* Style for company names */
+  .job-listing p.company {
+    font-weight: bold;
+    margin: 5px 10px;
+    color: #007BFF; /* Blue color for company names */
+  }
+  
+  /* Style for job location */
+  .job-listing p.location {
+    color: #555;
+    margin: 0 10px 10px;
+    font-style: italic; /* Italic font style for job location */
+  }
+  
+  /* Style for job descriptions */
+  .job-listing p.description {
+    margin: 0 10px;
+    font-size: 0.9rem; /* Slightly smaller font size for job descriptions */
+  }
+  
+  /* Style for "Apply Now" links */
+  .job-listing a.apply-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+    transition: background-color 0.2s ease;
+    font-weight: bold; /* Bold font weight for "Apply Now" links */
+  }
+  
+  .job-listing a.apply-link:hover {
+    background-color: #0056b3;
+  }
+  
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/* aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+
+
+/* Job Listings styles */
+#job-listings h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.job-listing {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.job-listing h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.job-listing p {
+    margin-bottom: 10px;
+}
+
+.job-listing a {
+    background-color: #007BFF;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.job-listing a:hover {
+    background-color: #0056b3;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}

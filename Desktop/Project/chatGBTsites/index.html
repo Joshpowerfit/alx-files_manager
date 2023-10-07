@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Job Board</title>
+    <link rel="stylesheet" href="app.css"> <!-- Add your CSS link here -->
+    <link rel="stylesheet" href="jobs-listing.css">
+</head>
+<body>
+    <header>
+        <h1>Programming Job Board</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Job Listings</a></li>
+                <li><a href="#">Post a Job</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="job-search">
+            <h2>Find Your Dream Programming Job</h2>
+            <form id="job-search-form">
+                <input type="text" id="keywords" placeholder="Keyword or job title">
+                <input type="text" id="location" placeholder="Location">
+                <select id="category">
+                    <option value="" disabled selected>Select Category</option>
+                    <option value="web-dev">Web Development</option>
+                    <option value="data-sci">Data Science</option>
+                    <!-- Add more categories as needed -->
+                </select>
+                <button type="button" id="search-button">Search</button>
+                <button type="button" id="clear-filters-button">Clear Filters</button> <!-- Clear Filters button -->
+            </form>
+        </section>
+        
+        <section id="job-listings">
+            <!-- Job listings will be dynamically populated here by JavaScript -->
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 Programming Job Board</p>
+    </footer>
+    <script src="script.js"></script> <!-- Add your JavaScript file here -->
+</body>
+</html>

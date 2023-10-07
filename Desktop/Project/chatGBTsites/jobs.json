@@ -1,0 +1,126 @@
+{
+    "jobs": [
+      {
+        "title": "Full Stack Developer",
+        "company": "Tech Innovators Inc.",
+        "location": "San Francisco, CA",
+        "description": "We're seeking a talented Full Stack Developer to join our team and work on exciting projects.",
+        "category": "Web Development",
+        "applyLink": "https://example.com/apply/full-stack-developer"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Data Insights Co.",
+        "location": "New York, NY",
+        "description": "Join our Data Science team to analyze data and uncover valuable insights.",
+        "category": "Data Science",
+        "applyLink": "https://example.com/apply/data-scientist"
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "WebTech Solutions",
+        "location": "Los Angeles, CA",
+        "description": "We're looking for a Frontend Developer to create stunning user interfaces.",
+        "category": "Web Development",
+        "applyLink": "https://example.com/apply/frontend-developer"
+      },
+      {
+        "title": "UX/UI Designer",
+        "company": "Design Studios Ltd.",
+        "location": "Chicago, IL",
+        "description": "Design beautiful and user-friendly interfaces for our clients.",
+        "category": "Design",
+        "applyLink": "https://example.com/apply/ux-ui-designer"
+      },
+      {
+        "title": "Database Administrator",
+        "company": "Data Systems Inc.",
+        "location": "Austin, TX",
+        "description": "Manage and optimize our database systems for efficiency and performance.",
+        "category": "Database Management",
+        "applyLink": "https://example.com/apply/database-administrator"
+      },
+      {
+        "title": "Backend Developer",
+        "company": "Code Masters Inc.",
+        "location": "Seattle, WA",
+        "description": "Join our Backend Development team to build robust and scalable server-side applications.",
+        "category": "Web Development",
+        "applyLink": "https://example.com/apply/backend-developer"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "AI Innovations Co.",
+        "location": "Boston, MA",
+        "description": "Work on cutting-edge machine learning projects and shape the future of AI.",
+        "category": "Machine Learning",
+        "applyLink": "https://example.com/apply/machine-learning-engineer"
+      },
+      {
+        "title": "DevOps Engineer",
+        "company": "Cloud Solutions Ltd.",
+        "location": "Denver, CO",
+        "description": "Streamline our development and deployment processes with DevOps best practices.",
+        "category": "DevOps",
+        "applyLink": "https://example.com/apply/devops-engineer"
+      },
+      {
+        "title": "Mobile App Developer",
+        "company": "App Creators LLC",
+        "location": "San Diego, CA",
+        "description": "Build innovative mobile apps for iOS and Android platforms.",
+        "category": "Mobile Development",
+        "applyLink": "https://example.com/apply/mobile-app-developer"
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "company": "SecureTech Systems",
+        "location": "Washington, D.C.",
+        "description": "Protect our systems and data from cyber threats and vulnerabilities.",
+        "category": "Cybersecurity",
+        "applyLink": "https://example.com/apply/cybersecurity-analyst"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Tech Solutions Corp.",
+        "location": "Austin, TX",
+        "description": "Join our software engineering team to work on innovative projects.",
+        "category": "Software Development",
+        "applyLink": "https://example.com/apply/software-engineer"
+      },
+      {
+        "title": "Product Manager",
+        "company": "Product Innovations Ltd.",
+        "location": "San Jose, CA",
+        "description": "Lead product development and strategy to create impactful solutions.",
+        "category": "Product Management",
+        "applyLink": "https://example.com/apply/product-manager"
+      },
+      {
+        "title": "Cloud Solutions Architect",
+        "company": "CloudTech Solutions",
+        "location": "Seattle, WA",
+        "description": "Design and implement cloud-based solutions for our clients.",
+        "category": "Cloud Computing",
+        "applyLink": "https://example.com/apply/cloud-solutions-architect"
+      },
+      {
+        "title": "Quality Assurance Tester",
+        "company": "QA Labs Inc.",
+        "location": "Chicago, IL",
+        "description": "Ensure the quality and reliability of our software products through rigorous testing.",
+        "category": "Quality Assurance",
+        "applyLink": "https://example.com/apply/qa-tester"
+      },
+      {
+        "title": "Technical Support Specialist",
+        "company": "Tech Support Pro",
+        "location": "New York, NY",
+        "description": "Provide technical assistance and support to our customers.",
+        "category": "Customer Support",
+        "applyLink": "https://example.com/apply/tech-support-specialist"
+      }
+
+    ]
+  }
+  
